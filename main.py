@@ -16,7 +16,6 @@ def shuffle(url):
     
     return img["src"]
 
-shuffle(url)
 
 for img in images:
         print(img["src"])
